@@ -1,0 +1,23 @@
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+html {
+  background-color: #eee9de;
+  line-height: 1.5;
+}
+
+header {
+  color: #333;
+  font-family: Lato, sans-serif;
+}
+
+main {
+  color: #333;
+  font-family: Lato, sans-serif;
+}
+
+nav {
+  color: #333;
+  font-family: Lato, sans-serif;
+}
