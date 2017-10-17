@@ -3,12 +3,18 @@
 }
 
 html {
-  background-color: #eee9de;
   line-height: 1.5;
+  box-sizing:
+}
+
+body {
+  background-color: #eee9de;
 }
 
 img {
   margin: 1.5rem;
+  display: inline;
+  width: 100%;
 }
 
 h1 {
