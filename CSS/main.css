@@ -20,20 +20,18 @@ img {
 h2 {
   color: #333;
   font-family: Lato, sans-serif;
-  padding: .4em .75em .5em;
-}
-
-figure {
-
+  padding: 2em;
 }
 
 p {
   color: #333;
   font-family: Lato, sans-serif;
   text-align: left;
+  padding: 1em;
 }
 
-nav {
+a {
   color: #666;
   font-family: Lato, sans-serif;
+  padding: .4em .75em .5em;
 }
