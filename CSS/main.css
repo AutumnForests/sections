@@ -8,13 +8,14 @@ html {
 }
 
 body {
+  margin: 1.5rem
   background-color: #eee9de;
 }
 
 img {
   margin: 1.5rem;
   display: inline;
-  width: 25em;
+  max-width: 25em;
 }
 
 h2 {
