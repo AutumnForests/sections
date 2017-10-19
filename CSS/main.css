@@ -29,6 +29,10 @@ p {
   max-width: 25em;
 }
 
+text {
+  display: inline-block;
+}
+
 a {
   color: #333;
   font-family: Lato, sans-serif;
