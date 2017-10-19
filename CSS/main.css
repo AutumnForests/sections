@@ -29,7 +29,7 @@ p {
   max-width: 25em;
 }
 
-text {
+.text {
   display: inline-block;
 }
 
