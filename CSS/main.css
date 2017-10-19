@@ -30,14 +30,14 @@ p {
   vertical-align: middle;
 }
 
-.btn {
+a {
   color: #333;
   font-family: Lato, sans-serif;
   padding: .4em .75em .5em;
   text-align: center;
 }
 
-.btn:hover {
+a:hover {
   color: white;
   background-color: #666;
 
