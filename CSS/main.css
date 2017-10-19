@@ -12,7 +12,7 @@ body {
   background-color: #eee9de;
 }
 
-img {
+.image {
   margin: 1.5rem;
   display: block;
   max-width: 25em;
