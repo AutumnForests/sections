@@ -1,10 +1,10 @@
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
 html {
   line-height: 1.5;
-  box-sizing:
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 body {
@@ -35,4 +35,8 @@ a {
   font-family: Lato, sans-serif;
   padding: .4em .75em .5em;
   text-align: center;
+}
+
+a:hover {
+  background-color: #666;
 }
