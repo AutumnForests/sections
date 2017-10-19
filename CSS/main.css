@@ -25,6 +25,7 @@ h2 {
 p {
   color: #333;
   font-family: Lato, sans-serif;
+  max-width: 25em;
 }
 
 a {
